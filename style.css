@@ -1,0 +1,27 @@
+body {
+    min-width: 300px;
+    background-color: rgb(11, 11, 11);
+    font-size: medium;
+    color: #ffffff;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+
+/* Style list items and add dividers */
+
+ul li {
+    padding: 10px;
+    border-bottom: 1px solid #ffffff;
+    /* Add a border between list items */
+}
+
+
+/* Remove divider for the last list item */
+
+ul li:last-child {
+    border-bottom: none;
+}

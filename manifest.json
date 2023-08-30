@@ -1,0 +1,12 @@
+{
+    
+    "name": "Cric Newzz",
+    "version": "1.0.0",
+    "description": "Your go to new about cricket",
+    "manifest_version": 3,
+    "author": "Sai krishna",
+    "action":{
+    "default_popup":"index.html",
+    "default_title":"Cric Newzz"
+    }
+}
